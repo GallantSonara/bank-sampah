@@ -2,3 +2,6 @@
 Membuat Aplikasi Bank Sampah
 
 aplikasi bank sampah yang mempermudah proses pengambilan sampah dari rumah warga oleh petugas bank sampah lewat platform android
+
+# bank-sampah.apk
+file execute atau application android
